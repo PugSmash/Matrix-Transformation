@@ -2,5 +2,4 @@
 
 This Project uses mkatrix transformations to create a rotating circle gif
 
-
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+   h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x

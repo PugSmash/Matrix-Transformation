@@ -3,4 +3,4 @@
 This Project uses mkatrix transformations to create a rotating circle gif
 
 
-\\[a^2 = b^2 + c^2]\\
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
